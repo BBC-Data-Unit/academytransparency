@@ -12,6 +12,12 @@ BBC England's data unit selected 100 academies across England at random and foun
 
 The 100 schools were selected at random from this list. We chose not to publish the names of schools while the DfE looks into the findings. However, we may publish data here once investigations are completed.
 
+## Quotes and interviews
+
+* Chris McGovern, Campaign for Real Education
+* Russell Hobby, general secretary of the National Association of Head Teachers
+* Spokesman, DfE
+
 ## Visualisation
 
 * Pie chart: Academies with a governors' register of interests online
